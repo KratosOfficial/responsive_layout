@@ -13,7 +13,6 @@ This Is A Way Of Making A Responisve layout for multiple devices i have used you
 
 <h1 align="center">Preview 📱</h1>
 
-![Capture](https://user-images.githubusercontent.com/83639732/183001723-0a060233-902a-46dc-880d-dc36aebe618d.PNG)
 ![Capture 2](https://user-images.githubusercontent.com/83639732/183001725-70894ccf-c803-4307-94a6-de9024b2728b.PNG)
 
 
